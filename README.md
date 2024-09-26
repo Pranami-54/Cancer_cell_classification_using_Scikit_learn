@@ -3,11 +3,11 @@
 This repository contains a google colab for classifying cancer cells as either benign or malignant using machine learning models from the scikit-learn library. The project utilizes the well-known Breast Cancer Wisconsin (Diagnostic) dataset, which is part of the scikit-learn datasets collection. The goal is to build, evaluate, and optimize a machine learning pipeline for accurate classification.
 
 **Table of Contents**
-Project Overview
-Dataset
-Models
-Evaluation Metrics
-Results
+  Project Overview
+  Dataset
+  Models
+  Evaluation Metrics
+  Results
 
 **Project Overview**
 The purpose of this project is to build a machine learning model to classify cancer cells using the Scikit-Learn library, focusing on the Gaussian Naive Bayes algorithm. The dataset used contains features computed from digitized images of fine-needle aspirate (FNA) of breast masses. The main objective is to predict whether the cancer is benign or malignant based on cell features such as radius, texture, perimeter, and area.
@@ -34,8 +34,8 @@ The Gaussian Naive Bayes algorithm assumes that the features follow a normal dis
 **Results**
 The Gaussian Naive Bayes model achieved the following performance metrics:
 
-Accuracy: ~90%
-Precision: ~90%
-Recall: ~94%
-F1-Score: ~92%
+  Accuracy: ~90%
+  Precision: ~90%
+  Recall: ~94%
+  F1-Score: ~92%
 Refer to the google colab for detailed evaluation results and visualization of model performance.
